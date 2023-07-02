@@ -63,5 +63,7 @@ _University:_
 
 - Russian - Native
 - **English:**
-  - Chuvash State Pedagogical University, Cheboksary _(english language, second bachelor’s degree)_
-  - **B2** (according to the online test at [Skyeng](https://magazine.skyeng.ru/englishlevel-adult/?_ga=2.15416895.84135231.1644213687-137537265.1636366457&from=main_new_menu))
+
+  Chuvash State Pedagogical University, Cheboksary _(english language, second bachelor’s degree)_
+
+  **B2** (according to the online test at [Skyeng](https://magazine.skyeng.ru/englishlevel-adult/?_ga=2.15416895.84135231.1644213687-137537265.1636366457&from=main_new_menu))
