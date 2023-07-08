@@ -9,7 +9,7 @@
 
 ## Summary:
 
-I’m a Graphic Designer with over 6 years of experience.
+I’m a Graphic Designer with more than 6 years of experience.
 
 Over the past few years I've been thinking a lot about my career. And I finally decided to change the career path and started to learn web development.
 

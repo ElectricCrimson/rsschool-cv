@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.header {
+  height: 7rem;
+  background-color: beige;
+}
+
+.nav__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.nav__item {
+  font-size: 1.4rem;
+  font-weight: 300;
+  list-style: none;
+  padding: 0 2.4rem;
+  margin-top: 2.4rem;
+}
+
+.nav__link:link,
+.nav__link:visited {
+  text-decoration: none;
+}
+
+.nav__link:hover,
+.nav__link:active {
+  cursor: pointer;
+}
+
+.main {
+  margin: 0 auto;
+}
+
+.cv-photo {
+  width: 24rem;
+  height: 24rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.rss-logo,
+.github-logo {
+  width: 10rem;
+  height: 100%;
+}
