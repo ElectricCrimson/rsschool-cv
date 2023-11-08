@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://ElectricCrimson.github.io/rsschool-cv/
+https://ElectricCrimson.github.io/rsschool-cv/cv
